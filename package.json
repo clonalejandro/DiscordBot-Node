@@ -1,0 +1,51 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "A discord bot developed by clonalejandro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clonalejandro/discordbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music",
+    "clona",
+    "clonalejandro",
+    "cchallenge",
+    "cchallenges",
+    "alex",
+    "alejandro",
+    "mcb",
+    "player",
+    "js",
+    "node",
+    "nodejs",
+    "javascript",
+    "ecs",
+    "ecs6",
+    "ecmascript",
+    "ecmascript",
+    "6"
+  ],
+  "author": "clonalejandro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clonalejandro/discordbot/issues"
+  },
+  "homepage": "https://github.com/clonalejandro/discordbot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg": "0.0.4",
+    "get-youtube-id": "^1.0.0",
+    "npm": "^6.1.0",
+    "opusscript": "0.0.6",
+    "request": "^2.87.0",
+    "youtube-info": "^1.2.0",
+    "ytdl-core": "^0.20.4"
+  }
+}
